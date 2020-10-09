@@ -1,6 +1,6 @@
 # Machine Learning projects
 
-![](https://i.imgur.com/xzlV0bH.gif)
+![](https://i.imgur.com/YwhENnL.png)
 
 **Machine Learning projects** with an emphasis on pratical observations.
 
