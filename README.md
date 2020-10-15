@@ -21,7 +21,7 @@ Does money make people happy? What do you think? Look this work and see how GDP 
 
 - _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_, 2nd Edition, by Aurélien Géron (O’Reilly). Copyright 2019 Aurélien Géron, 978-1-492-03264-9.
 
-- Website: https://cienciadosdados.com/. Last acces in october 15th 2020.
+- Website: https://cienciadosdados.com/. Last access in october 15th 2020.
 
 
 # Projetos de Aprendizagem de Máquina (brazilian-portuguese)
