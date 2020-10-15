@@ -45,9 +45,10 @@ O dinheiro deixa as pessoas felizes? O que você acha? Veja este trabalho e veja
 
 - _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_, 2nd Edition, by Aurélien Géron (O’Reilly). Copyright 2019 Aurélien Géron, 978-1-492-03264-9.
 
-![](https://i.imgur.com/meHJQw2s.png)
-
 - Site: https://cienciadosdados.com/. Último acesso em 15 de outubro de 2020.
+
+
+![](https://i.imgur.com/meHJQw2s.png)
 
 [**Gilberto Filho**](https://www.linkedin.com/in/gilberto-filho-analista-de-dados)
 
